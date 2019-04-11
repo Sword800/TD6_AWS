@@ -12,7 +12,8 @@
   "dependencies": {
     "express": "^4.16.4",
     "body-parser": "^1.18.3",
-    "ws": "^6.2.1"
+    "ws": "^6.2.1",
+    "express-session": "^1.16.0"
   },
   "engines": {
     "node": "8.x"
